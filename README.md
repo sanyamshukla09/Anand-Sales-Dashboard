@@ -1,1 +1,1 @@
-# Anand-Sales-Dashboard
+# This project involved creating a dynamic and interactive sales dashboard for Anand Ecommerce using Power BI. The dashboard allows for a comprehensive analysis of the company’s sales data, helping stakeholders gain insights into customer behavior, sales performance, and product trends over different periods.
